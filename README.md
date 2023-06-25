@@ -1,2 +1,1 @@
-# Hypotenusecalculator
-A very simple hypotenuse calculator written in c++ 
+Open the exe file and type in the lengths you already have.
